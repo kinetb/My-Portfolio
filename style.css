@@ -345,3 +345,24 @@ body {
 
 
 }
+
+@media only screen and (min-width:1000px){
+    #skills {
+        height: 400px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .heading {
+        font-size: 30px;
+    }
+    .skills{
+        font-size: 20px;
+    }
+    #iconsss{
+        margin-top: 90px;
+        width: 740px;
+    
+    }
+
+
+}
